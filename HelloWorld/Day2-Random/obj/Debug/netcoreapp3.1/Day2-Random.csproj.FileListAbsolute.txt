@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.exe
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.deps.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.runtimeconfig.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.runtimeconfig.dev.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\bin\Debug\netcoreapp3.1\Day2-Random.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.AssemblyInfo.cs
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day2-Random\obj\Debug\netcoreapp3.1\Day2-Random.genruntimeconfig.cache

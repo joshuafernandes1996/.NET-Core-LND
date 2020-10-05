@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYqm8DAL4qPrcxOIh/P//M69Tgspy6fE53OG1dX5sTIuRHwEYjs0RHY1nyal2pSBBVKKflnuUfRwiNYdyaHGow==",
+  "dgSpecHash": "TjQIG2LM6fzBdTKV1w6NZeJFhgTtGgJc0rdgAomVkIXmCyiv9819Ex7LIO6cKNuRZZaQFQng4Y5H1SV999hkHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Excercise1\\Excercise1.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Excercise1\\Exercise1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

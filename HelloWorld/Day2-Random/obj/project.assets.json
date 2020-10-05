@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Excercise1\\Exercise1.csproj",
-      "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Excercise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Day2-Random\\Day2-Random.csproj",
+      "projectName": "Day2-Random",
+      "projectPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Day2-Random\\Day2-Random.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Excercise1\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Day2-Random\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
