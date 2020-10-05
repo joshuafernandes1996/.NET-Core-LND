@@ -11,3 +11,16 @@ C:\Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreC
 C:\Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

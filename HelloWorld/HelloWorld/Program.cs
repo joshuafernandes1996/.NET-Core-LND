@@ -1,4 +1,7 @@
-﻿using HelloWorld.Math;
+﻿using HelloWorld.Day1.Enum;
+using HelloWorld.Day2;
+using HelloWorld.Day2.Exercises;
+using HelloWorld.Math;
 using System;
 
 namespace HelloWorld
@@ -70,6 +73,53 @@ namespace HelloWorld
 
             Console.WriteLine(string.Format("My Name is {0} {1}", fn, ln));
             Console.WriteLine(string.Join(",",name));
+
+            Console.WriteLine("==========ENUM===========");
+            Console.WriteLine("Enum", EnumExample.example1,EnumExample.example2, EnumExample.example3);
+            var method = EnumExample.example3;
+            Console.WriteLine((int)method);
+
+            var methodID = 3;
+            Console.WriteLine((EnumExample)methodID);
+            Console.WriteLine(EnumExample.example3.ToString());
+
+            //Parsing
+            var newMethod = "example1";
+            var newEnum = (EnumExample)Enum.Parse(typeof(EnumExample), newMethod);
+            Console.WriteLine(newEnum);
+
+            Console.WriteLine("==========================");
+
+            Console.WriteLine("\n\n");
+
+            Console.WriteLine("============Ref and Value Types==============");
+            var a = 10;
+            var b = a;
+
+            ++a;
+
+            Console.WriteLine("a:{0},b:{1}",a,b);
+
+            var array1 = new int[3] { 1, 2, 3 };
+            var array2 = array1;
+
+            array2[0] = 0;
+
+            Console.WriteLine("arr1[0]={0} , arr2[0]={1}", array1[0],array2[0]);
+
+            Console.WriteLine("=============================================");
+
+            Console.WriteLine("===================CONDITIONS===================");
+            var cond = new Conditions();
+
+            cond.GetDay();
+            cond.GetPrice();
+            cond.GetSeason(Conditions.Season.Winter);
+
+            Console.WriteLine("===================EXERCISE 1===================");
+            var ex1 = new IsValidNumber();
+            ex1.CheckNumber();
+
         }
     }
 }
