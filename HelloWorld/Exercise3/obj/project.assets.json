@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Exercise3\\Exercise3.csproj",
-      "projectName": "Exercise3",
-      "projectPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Exercise3\\Exercise3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Exercise3\\Day2-Exercise3.csproj",
+      "projectName": "Day2-Exercise3",
+      "projectPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Exercise3\\Day2-Exercise3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\.NET-Core-LND\\HelloWorld\\Exercise3\\obj\\",
       "projectStyle": "PackageReference",
