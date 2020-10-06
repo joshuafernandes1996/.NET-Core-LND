@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.exe
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.deps.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.runtimeconfig.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.runtimeconfig.dev.json
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\bin\Debug\netcoreapp3.1\Day3-Exercise3.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.AssemblyInfo.cs
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.dll
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.pdb
+C:\Users\User\source\repos\.NET-Core-LND\HelloWorld\Day3-Exercise3\obj\Debug\netcoreapp3.1\Day3-Exercise3.genruntimeconfig.cache
